@@ -99,8 +99,11 @@ Scatter plot to examine the relationship between votes and ratings.
 📁 **Repository Contents**
 
 ├── imdb.ipynb                  # Scraping & data preprocessing notebook
+
 ├── imdbvisuals.py             # Streamlit dashboard code
+
 ├── all_genres_2024_cleaned.csv # Cleaned dataset
+
 └── README.md                  # Project documentation
 
 🙌 **Acknowledgements**
